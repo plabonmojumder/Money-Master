@@ -1,0 +1,196 @@
+
+.money-master{
+
+}
+.heading-tittle{
+
+}
+.heading-tittle h2{
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    color: rgb(8, 66, 47);
+
+}
+.heading-tittle i{
+    font-size: 35px;
+    color: rgb(216, 166, 1);
+
+}
+.money-image{
+
+
+}
+.money-image img{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.calculet-money-box{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 100%;
+    padding: 30px ;
+    margin: auto;
+
+}
+.income{
+
+
+}
+.income h3{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    color: #000;
+
+
+
+    
+}
+.income label{
+    font-size: 15px;
+    font-weight: 600;
+    min-width: 80px;
+    text-transform: uppercase;
+    color: #000;
+
+
+    
+    
+}
+.income input {
+    width: 75%;
+    border: 1px solid black;
+    height: 30px;
+}
+/* input:focus {
+    border: 2px solid #0044ff;
+    outline: none;
+  } */
+  .expenses{
+    margin-top: 30px;
+    
+  }
+  .expenses h3{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 15px ;
+    color: #000;
+
+
+
+    
+  }
+  .expenses-Item{
+
+  }
+  .expenses-Item label{
+    min-width: 80px;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 5px 0px;
+    text-transform: uppercase;
+    color: #000;
+
+
+
+    
+  }
+  .expenses-Item input {
+    margin: 5px 0px;
+    width: 75%;
+    border: 1px solid black;
+    height: 30px;
+}
+  input:focus {
+    border: 2px solid #0044ff;
+    outline: none;
+}
+.btn-calculetor{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+
+}
+.btn-calculetor button{
+    margin: auto;
+    padding: 8px 10px ;
+    border: none;
+    font-size: 16px;
+    color: white;
+    background-color: #0044ff;
+    border-radius: 10px;
+    text-transform: capitalize;
+
+}
+.expenses-balance h2{
+    margin: 5px 0px;
+    text-align: center;
+ font-size: 20px;
+ font-weight: 500;
+ color: black;
+}
+.saving{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 5px;
+
+}
+.saving label{
+    font-size: 15px;
+    font-weight: 600;
+    color: #000;
+    min-width: 80px;
+    
+}
+
+.saving input{
+    margin: 5px 0px;
+    width: 50%;
+    border: 1px solid black;
+    height: 30px;
+}
+
+.saving h1{
+    font-size: 20px;
+    font-weight: 800;
+    color: black;
+    
+}
+.saving button{
+    /* margin: auto; */
+    padding: 8px 15px ;
+    border: none;
+    font-size: 16px;
+    color: white;
+    background-color: #ff7300;
+    border-radius: 10px;
+    text-transform: capitalize;
+    
+}
+.saving-remaining-total{
+    margin-top: 10px;
+
+
+}
+.saving-remaining-total h2{
+    margin: 5px 0px;
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+    font-weight: 600;
+    
+    
+
+}
+
+
+
